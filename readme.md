@@ -1,4 +1,4 @@
-## Advanced Pacman Game
+## Advanced PacManAI Game
 
 This repository hosts the Advanced Pacman Game. The goal was to recreate the classic arcade game with additional features and improved gameplay dynamics.
 
